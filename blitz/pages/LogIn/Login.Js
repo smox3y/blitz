@@ -1,10 +1,10 @@
 import * as React from "react";
-import "./App.css";
+import "./Login.css";
 import group1 from "./assets/group1.svg";
 import vector from "./assets/vector.svg";
 import vector1 from "./assets/vector1.svg";
 import rectangle9 from "./assets/rectangle9.svg";
-const App = () => {
+const Login = () => {
   return (
     <div className="desktop-2">
       <div className="rectangle-8">
@@ -46,4 +46,4 @@ const App = () => {
     </div>
   );
 };
-export default App;
+export default Login;
