@@ -1,0 +1,71 @@
+.component {
+  text-align: center;
+  color: #000;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: stretch;
+  font-family: Poppins, Arial;
+  font-size: .938rem;
+  font-weight: 600;
+  line-height: 23px;
+  display: flex;
+}
+
+.rectangle-4-2 {
+  height: 100%;
+  background-color: #ff5e5e;
+  border-radius: 20px;
+  flex-direction: column;
+  flex-basis: 95%;
+  justify-content: space-evenly;
+  align-items: stretch;
+  padding-top: 1px;
+  padding-bottom: 9px;
+  padding-left: 12px;
+  display: flex;
+}
+
+.group {
+  width: 31px;
+  height: 31px;
+  object-fit: cover;
+  margin-top: 1px;
+}
+
+.revenue {
+  margin-left: 1px;
+}
+
+.total-arm-band-gener {
+  font-size: .625rem;
+  font-weight: 400;
+  line-height: 15px;
+}
+
+.num-3500345 {
+  margin-left: 1px;
+  font-size: 1.25rem;
+  line-height: 30px;
+}
+
+.group-3-1 {
+  width: 219px;
+  height: 3px;
+  object-fit: cover;
+  margin-bottom: 5px;
+}
+
+.flex-container-22 {
+  color: #fff;
+  width: 80%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2px;
+  margin-left: 1px;
+  display: flex;
+}
+
+.num-64 {
+  color: #000;
+}
